@@ -1,0 +1,16 @@
+In jalandhar the available houses with three bed rooms are:
+1
+laxmi apartments
+VHDL road
+7th floor
+rate:78lakhs
+2
+digital apartments
+petrol bunk road
+8th floor
+rate:67lakhs
+3
+ion apartments
+library road
+3rd floor
+rate:35lakhs

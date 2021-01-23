@@ -1,0 +1,17 @@
+In lawgate the available houses with two bedrooms:
+1
+veena apartments
+pallan road
+5th floor
+rate:50lakhs
+2
+chand apartments
+G.T road
+7th floor
+rate:35lakhs
+3
+anna apartments
+market road
+6th floor
+rate:56lakhs
+

@@ -1,0 +1,17 @@
+In lawgate the available houses with one bedroom is:
+1
+rajesh apartments
+vinni road
+5th floor
+rate:57lakhs
+2
+pavan apartments
+sam road
+6th floor;
+rate:56lakhs
+3
+chandra apartments
+near gajuwaka
+3rd floor;
+rate:90lakhs
+

@@ -1,0 +1,17 @@
+In jalandhar the available houses with two bedrooms:
+1
+veera apartments
+pallavi road
+5th floor
+rate:40lakhs
+2
+chandu apartments
+G.T road
+7th floor
+rate:47lakhs
+3
+annapurna apartments
+market road
+6th floor
+rate:47lakhs
+

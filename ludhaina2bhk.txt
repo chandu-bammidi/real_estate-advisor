@@ -1,0 +1,17 @@
+In ludhaina the available houses with two bedrooms:
+1
+vani apartments
+pallani road
+5th floor
+rate:87lakhs
+2
+charu apartments
+G.K road
+7th floor
+rate:41lakhs
+3
+annayya apartments
+mark road
+6th floor
+rate:57lakhs
+

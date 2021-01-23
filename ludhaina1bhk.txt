@@ -1,0 +1,18 @@
+In ludhaina the available houses with one bedroom is:
+1
+rakesh apartments
+vinner road
+5th floor
+rate:32lakhs
+2
+pavani apartments
+samuel road
+6th floor;
+rate:23lakhs
+3
+gupta apartments
+near gajuwaka
+3rd floor;
+rate:42lakhs
+
+
